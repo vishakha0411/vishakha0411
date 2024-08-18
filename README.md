@@ -4,7 +4,7 @@
 <br>
 <img src="https://user-images.githubusercontent.com/82572740/227519059-60b1d409-7e0d-4761-ba83-4858aa2b225e.png">
 
-🔭 Pursued B.E. In Computer Engineering at Dr. DY Patil College of Engineering, Pune <br>⚡ Love to Code | Developer | UI/UX Designer <br>🤝 I’m looking for help on Development and Design.<br>🌱 I’m  currently learning Frontend Development.<br>💬 Apart from Web, Android, Design let's talk about space:).<br>
+🔭 Pursued B.E. In Computer Engineering at Dr. DY Patil College of Engineering, Pune <br>⚡ Love to Code | Developer | UI/UX Designer <br>🤝 I’m looking for help on Development and Design.<br>🌱 I’m  currently learning Frontend Development.<br>💬 Apart from Web, Android, Design let's talk about space :)<br>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
